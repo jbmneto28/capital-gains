@@ -1,2 +1,1 @@
 # capital-gains
-Desafio Nubank
